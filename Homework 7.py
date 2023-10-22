@@ -92,6 +92,7 @@ for i in range(2,n):
 
 print('Fibonacci('+ str(n) +') is',fib)
 
+print('')
 #Problem 5
 n = eval(input('Enter a positive number: '))
 
